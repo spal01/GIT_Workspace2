@@ -1,8 +1,13 @@
-public class Demo{
+package com.git;
 
-public static void main(String[] args){
+public class Demo {
 
-System.out.println("");
-}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("In GIT Demo");
+		
+		
+
+	}
 
 }
